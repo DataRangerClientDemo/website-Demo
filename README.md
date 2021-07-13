@@ -26,6 +26,6 @@ Deployment will be linked to a Firebase project via the `FIREBASE_TOKEN` and `FI
 For Clients: Request for these 2 tokens from ByteDance so that you can set-up automatic deployment for your own forked website for your own experimentation (note the website URL as well).
 
 ## DataTester Integration
-DataTester integration is done via `script` tags in HTML. Further explanation/instructions can be found here: https://bytedance.feishu.cn/docs/doccn5ZL2UhedJHTRR1sbv8Kumh
+DataTester integration is done via `script` tags in HTML. Further explanations/instructions can be found here: https://bytedance.feishu.cn/docs/doccn5ZL2UhedJHTRR1sbv8Kumh
 
 
